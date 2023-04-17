@@ -21,3 +21,9 @@
   <b>Access the api at http://localhost:5000 in your browser using Postman</b>
  
 </ul>
+<h2>API Endpoints</h2>
+<p>The following API are available</p>
+<ul>
+<li><b><q>/notes</q></b> - Create a new Note</li>
+<li></li>
+</ul>
