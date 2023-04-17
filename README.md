@@ -4,7 +4,7 @@
 <h2>Getting Started</h2>
 <ul>
   <b>Clone Repistory</b>
-  <code><li>git clone https://github.com/your_username/BasicNoteApp.git</li>></code>
+  <code><li>git clone https://github.com/your_username/BasicNoteApp.git</li></code>
  
   <b>Change to clones Repistory</b>
   <code><li>cd BasicNoteApp</li></code>
