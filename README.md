@@ -5,19 +5,19 @@
 <ul>
   <b>Clone Repistory</b>
   <code><li>git clone https://github.com/your_username/BasicNoteApp.git</li>></code>
-  <br>
+ 
   <b>Change to clones Repistory</b>
-  <code><li>cd BasicNoteApp </li></code>
-  <br>
+  <code><li>cd BasicNoteApp</li></code>
+  
   <b>Install the dependencies</b>
   <code><li>npm install</b></code>
-  <br>
+  
   <b>Build the docker container</b>
   <code><li>docker-compose build</li></code>
-  <br>
+ 
   <b>Start the Docker Container</b>
   <code><li>docker-compose up</li></code>
-  <br>
+  
   <b>Access the api at http://localhost:5000 in your browser using Postman</b>
-  <br>
+ 
 </ul>
