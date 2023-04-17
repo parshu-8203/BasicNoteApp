@@ -24,6 +24,9 @@
 <h2>API Endpoints</h2>
 <p>The following API are available</p>
 <ul>
-<li><b><q>/notes</q></b> - Create a new Note</li>
-<li></li>
+<li><b><q>/notes</q></b> POST - Create a new Note</li>
+<li><b><q>/notes</q></b> GET - Get all Notes</li>
+<li><b><q>/notes/:id</q></b> GET - Get a note by ID</li>
+<li><b><q>/notes/:id</q></b> PUT - Update a note by ID</li>
+<li><b><q>/notes/:id</q></b>DELETE - Delete a note by ID</li>
 </ul>
