@@ -3,6 +3,6 @@
 
 <h2>Getting Started</h2>
 <ul>
-  <li><b>Clone Repistory</b> - git clone https://github.com/your_username/your_repository.git
+  <li><b>Clone Repistory</b> - <p>git clone https://github.com/your_username/your_repository.git</p>
 </li>
 </ul>
